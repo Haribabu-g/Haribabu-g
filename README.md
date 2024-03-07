@@ -13,5 +13,5 @@ Small web development projects where I can learn and grow alongside other develo
 
 ## 📫 How to reach me ...
 Feel free to connect with me via:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/haribabu-g/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/haribabu-g/)
 
